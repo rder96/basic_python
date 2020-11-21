@@ -224,8 +224,8 @@ needed to process the next value in the iterable.
        return msg, say_please
        
    print(say()) -> Can you buy me a beer?
-    print(say(say_please=True)) -> Can you buy me a beer? Please! I am poor :(
-
+   print(say(say_please=True)) -> Can you buy me a beer? Please! I am poor :(
+   ```
       
   
 
